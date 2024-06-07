@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-07T09:12:49.575Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="3azz_yIuug3OW4PGjUIh" version="24.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-07T09:24:01.836Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="FfkQ20Q4BiNWQnlxhVBq" version="24.5.1" type="github">
   <diagram name="Page-1" id="GF7OaNWlpsntlyMCokd7">
-    <mxGraphModel dx="3628" dy="4876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="4283" dy="5266" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -61,36 +61,36 @@
         <mxCell id="7k-AmSmw4N_ky5tJrCOa-12" value="Measure memory usage&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-120" y="400" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-13" value="Measure response times" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-13" value="Measure ML pipeline latency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-120" y="260" width="160" height="60" as="geometry" />
         </mxCell>
         <UserObject label="Estimate &amp;lt;X&amp;gt;&amp;nbsp; (fo&lt;b&gt;r&amp;nbsp;&lt;/b&gt;unavailable or non existing targets)" tooltip="Cela peut concerner des cibles matérielles &#xa;qui ne sont psa encore disponibles sur&#xa;le marché mais dont on a déjà quelques &#xa;caractéristiques, ou des cibes non approvisionnées." id="7k-AmSmw4N_ky5tJrCOa-14">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-            <mxGeometry x="170" y="640" width="160" height="60" as="geometry" />
+            <mxGeometry x="80" y="600" width="160" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="7k-AmSmw4N_ky5tJrCOa-15" value="Automate mesurements (perform a series of mesurement exp. automatically" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="170" y="710" width="160" height="60" as="geometry" />
+          <mxGeometry x="80" y="670" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7k-AmSmw4N_ky5tJrCOa-16" value="Measure &amp;lt;X&amp;gt; for the same model on multiple targets,&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="640" width="160" height="60" as="geometry" />
+          <mxGeometry x="-120" y="600" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7k-AmSmw4N_ky5tJrCOa-17" value="Measure &amp;lt;X&amp;gt; for the same model using multiple frameworks" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="705" width="160" height="60" as="geometry" />
+          <mxGeometry x="-120" y="670" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7k-AmSmw4N_ky5tJrCOa-18" value="Explore multiple deployment solutions and provide comparative results" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="770" width="160" height="60" as="geometry" />
+          <mxGeometry x="-120" y="740" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7k-AmSmw4N_ky5tJrCOa-19" value="Find the optimal deployment solution for a given model and a set of criteria" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="80" y="190" width="160" height="60" as="geometry" />
         </mxCell>
         <UserObject label="Find the best model architecture and deployment solution&amp;nbsp; for a given problem" tooltip="Le besoin de trouver la meilleure configuration &#xa;(modèle, framework, cible), &#xa;le modèle étant ici une variable libre.&#xa;On ne part pas d&#39;un modèle dont l&#39;architecture &#xa;est donnée, mais on optimise &#xa;l&#39;architecture pour un hardware donné (HW-NAS)." id="7k-AmSmw4N_ky5tJrCOa-20">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-            <mxGeometry x="340" y="640" width="160" height="60" as="geometry" />
+            <mxGeometry x="80" y="740" width="160" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="7k-AmSmw4N_ky5tJrCOa-21" value="Compare the &amp;lt;X&amp;gt; for multiple deployment solutions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="900" width="160" height="60" as="geometry" />
+          <mxGeometry x="-120" y="880" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7k-AmSmw4N_ky5tJrCOa-23" value="Capability to give access to a zoo of models with appropriate documentation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1530" y="1190" width="160" height="60" as="geometry" />
@@ -102,7 +102,7 @@
           <mxGeometry x="1700" y="1120" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7k-AmSmw4N_ky5tJrCOa-26" value="Find possible deployment solutions for a given model and criteria" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="835" width="160" height="60" as="geometry" />
+          <mxGeometry x="-120" y="810" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7k-AmSmw4N_ky5tJrCOa-27" value="Capability to evaluate multiple deployment solutions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="740" y="480" width="160" height="60" as="geometry" />
@@ -120,13 +120,13 @@
           <mxGeometry x="1130" y="1110" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7k-AmSmw4N_ky5tJrCOa-33" value="Estimate the effect of faults (e.g. SEUs) on the model performance" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="340" y="710" width="160" height="60" as="geometry" />
+          <mxGeometry x="280" y="600" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7k-AmSmw4N_ky5tJrCOa-36" value="Measure CPU usage" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-120" y="190" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7k-AmSmw4N_ky5tJrCOa-40" value="Find the optimal deployment" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="970" width="160" height="60" as="geometry" />
+          <mxGeometry x="-120" y="950" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7k-AmSmw4N_ky5tJrCOa-41" value="Provide indication about processor usage" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="740" y="1180" width="160" height="60" as="geometry" />
@@ -329,6 +329,9 @@
         </UserObject>
         <mxCell id="7k-AmSmw4N_ky5tJrCOa-132" value="Compare&amp;nbsp; the final&amp;nbsp; implementation with a reference implementation&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="560" y="330" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-138" value="Select and apply optimization stategy (quantification, pruning etc.)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="280" y="670" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
