@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-07T08:21:40.206Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="6o5fYC9L7XVgRvReqe5O" version="24.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-07T08:40:02.387Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="2NXJOZ39oDbiD70DOMkV" version="24.5.1" type="github">
   <diagram name="Page-1" id="GF7OaNWlpsntlyMCokd7">
     <mxGraphModel dx="4143" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -141,12 +141,15 @@
         <mxCell id="7k-AmSmw4N_ky5tJrCOa-52" value="Capability to describe series of experiments using a script" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="910" y="1390" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-56" value="Demonstrate that the model implementation preserves the semantics of the model" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="270" y="260" width="160" height="60" as="geometry" />
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="7k-AmSmw4N_ky5tJrCOa-56" target="7k-AmSmw4N_ky5tJrCOa-111">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="Make a first selection of HW targets accoriding to high level characteristics&amp;nbsp;" tooltip="Le besoin est de connaitre ce qui existe&#xa;et d&#39;avoir une idée des grandes caractéristiques des cibles matérielles &#xa;(nombre de coeurs, présence d&#39;accélérateurs, &#xa;quantité mémoire, etc.).&#xa;Il s&#39;agit d&#39;un besoin d&#39;information et&#xa;de moyen d&#39;accès à cette information &#xa;(capacité de recherche sur un critère &#xa;donné).&#xa;" id="7k-AmSmw4N_ky5tJrCOa-58">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-56" value="Demonstrate that the model implementation preserves the semantics of the model" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="280" y="190" width="160" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="Make a first selection of HW targets according to high level criteria" tooltip="Le besoin est de connaitre ce qui existe&#xa;et d&#39;avoir une idée des grandes caractéristiques des cibles matérielles &#xa;(nombre de coeurs, présence d&#39;accélérateurs, &#xa;quantité mémoire, etc.).&#xa;Il s&#39;agit d&#39;un besoin d&#39;information et&#xa;de moyen d&#39;accès à cette information &#xa;(capacité de recherche sur un critère &#xa;donné).&#xa;" id="7k-AmSmw4N_ky5tJrCOa-58">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-            <mxGeometry x="80" y="260" width="160" height="60" as="geometry" />
+            <mxGeometry x="80" y="120" width="160" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="7k-AmSmw4N_ky5tJrCOa-60" value="Capability to transform models to support multiple frameworks" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
@@ -259,10 +262,19 @@
           <mxGeometry x="570" y="1110" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7k-AmSmw4N_ky5tJrCOa-107" value="Provide the evidences required by certification" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="270" y="190" width="160" height="60" as="geometry" />
+          <mxGeometry x="280" y="120" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="7k-AmSmw4N_ky5tJrCOa-109" target="7k-AmSmw4N_ky5tJrCOa-110">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7k-AmSmw4N_ky5tJrCOa-109" value="Debug the model" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="270" y="330" width="160" height="60" as="geometry" />
+          <mxGeometry x="460" y="120" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-110" value="Find performance hotspots" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="520" y="190" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-111" value="Master the implementation chain" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="340" y="260" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
