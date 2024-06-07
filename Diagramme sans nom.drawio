@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-07T09:00:49.154Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="AeMPnnSr78URPoUvEGzv" version="24.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-07T09:03:18.621Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Pj6k92or5PPeJ17-aapu" version="24.5.1" type="github">
   <diagram name="Page-1" id="GF7OaNWlpsntlyMCokd7">
     <mxGraphModel dx="4480" dy="5383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -316,6 +316,11 @@
         <mxCell id="7k-AmSmw4N_ky5tJrCOa-130" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Manuel utilisateur&lt;/h1&gt;&lt;p&gt;Ajouter les &quot;besoins&quot; des utilisateurs (&quot;needs&quot;) ainsi que les capacités (&quot;capabiities&quot;).&amp;nbsp;&lt;/p&gt;&lt;p&gt;Si besoin, vous pouvez donner des explication en ajoutant une &quot;bulle d&#39;aide&quot; en sélectionnant un objet et faisant &quot;ALT-shift-t&quot;.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-190" y="-50" width="370" height="140" as="geometry" />
         </mxCell>
+        <UserObject label="Setup the toolchain" tooltip="L&#39;utilisateur va avoir besoin de mettre en place &#xa;la chaine d&#39;outil pour la cible donnée.&#xa;La documentation est plus ou moins disponible&#xa;sur intenet, mais nécessite souvent des ajustements... &#xa;Fournir une procédure claire et complète ou, &#xa;éventuellement, un dockerfile est &#xa;un moyen de faciliter la mise en oeuvre &#xa;des outils / cibles. " id="7k-AmSmw4N_ky5tJrCOa-131">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+            <mxGeometry x="760" y="280" width="160" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
