@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-07T08:53:45.501Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="pDeNiqg-kEm6Rg0XGIVf" version="24.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-07T09:00:04.855Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="by45nBX4nHHIXbfAQEl2" version="24.5.1" type="github">
   <diagram name="Page-1" id="GF7OaNWlpsntlyMCokd7">
-    <mxGraphModel dx="4480" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="4480" dy="5383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -106,10 +106,10 @@
           <mxGeometry x="1130" y="760" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7k-AmSmw4N_ky5tJrCOa-29" value="A need" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=2" vertex="1" parent="1">
-          <mxGeometry x="80" y="10" width="80" height="30" as="geometry" />
+          <mxGeometry x="200" y="-30" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7k-AmSmw4N_ky5tJrCOa-30" value="&lt;i&gt;A capability&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="80" y="60" width="80" height="30" as="geometry" />
+          <mxGeometry x="200" y="5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7k-AmSmw4N_ky5tJrCOa-32" value="Capability to inject faults into a model implementation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1130" y="1110" width="160" height="60" as="geometry" />
@@ -184,9 +184,11 @@
             <mxGeometry x="740" y="1460" width="160" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-70" value="Capability to share resources located at different site in a transparent way" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="1110" width="160" height="60" as="geometry" />
-        </mxCell>
+        <UserObject label="Capability to share resources located at different sites in a transparent way" tooltip="L&#39;idée est de pouvoir établir un réseau&#xa;de &quot;bancs&quot; et de pouvoir utiliser n&#39;importe&#xa;quelle des ressources disponibles sur ces&#xa;bancs à un utilisateur. &#xa;À terme, on pourrait offrir la capacité de&#xa;d&#39;intégrer (&quot;plugger&quot;) une nouvelle &#xa;ressource matérielle fournie pas l&#39;un des &#xa;partenaires." id="7k-AmSmw4N_ky5tJrCOa-70">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+            <mxGeometry x="1300" y="1110" width="160" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="7k-AmSmw4N_ky5tJrCOa-71" value="Capability to integrate the deployment workflow in the MLOps workflow" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1300" y="1040" width="160" height="60" as="geometry" />
         </mxCell>
@@ -203,9 +205,11 @@
             <mxGeometry x="1530" y="1120" width="160" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-75" value="Capability to guide the user to chose the most appropriate models for a given function" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1530" y="1050" width="160" height="60" as="geometry" />
-        </mxCell>
+        <UserObject label="Capability to guide the user to chose the most appropriate models for a given function" tooltip="L&#39;idée est de proposer une taxonomie des&#xa;modèles en précisant ce pour quoi ils&#xa;ont été développés, quelles sont les &#xa;performances obtenues, les papiers&#xa;dans lesquels ils sont décrits." id="7k-AmSmw4N_ky5tJrCOa-75">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+            <mxGeometry x="1530" y="1050" width="160" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="7k-AmSmw4N_ky5tJrCOa-76" value="Capability to compare a model impl. against a reference impl. at for all layers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1300" y="550" width="160" height="60" as="geometry" />
         </mxCell>
@@ -308,6 +312,9 @@
         </mxCell>
         <mxCell id="7k-AmSmw4N_ky5tJrCOa-129" value="Capability to ensure confidentiality&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1130" y="1250" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-130" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Manuel utilisateur&lt;/h1&gt;&lt;p&gt;Ajouter les &quot;besoins&quot; des utilisateurs (&quot;needs&quot;) ainsi que les capacités (&quot;capabiities&quot;).&amp;nbsp;&lt;/p&gt;&lt;p&gt;Si besoin, vous pouvez donner des explication en ajoutant une &quot;bulle d&#39;aide&quot; en sélectionnant un objet et faisant &quot;ALT-T&quot;.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="-50" width="370" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
