@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-07T08:19:33.216Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="7f8yT9Ahb5xlSx64ViT8" version="24.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-07T08:21:40.206Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="6o5fYC9L7XVgRvReqe5O" version="24.5.1" type="github">
   <diagram name="Page-1" id="GF7OaNWlpsntlyMCokd7">
     <mxGraphModel dx="4143" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -76,7 +76,7 @@
         <mxCell id="7k-AmSmw4N_ky5tJrCOa-18" value="Explore multiple deployment solutions and provide comparative results" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="80" y="550" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-19" value="Find the optimal deployment solution for a given model" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-19" value="Find the optimal deployment solution for a given model and a set of criteria" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="80" y="190" width="160" height="60" as="geometry" />
         </mxCell>
         <UserObject label="Find the best model architecture and deployment solution&amp;nbsp; for a given problem" tooltip="Le besoin de trouver la meilleure configuration &#xa;(modèle, framework, cible), &#xa;le modèle étant ici une variable libre.&#xa;On ne part pas d&#39;un modèle dont l&#39;architecture &#xa;est donnée, mais on optimise &#xa;l&#39;architecture pour un hardware donné (HW-NAS)." id="7k-AmSmw4N_ky5tJrCOa-20">
