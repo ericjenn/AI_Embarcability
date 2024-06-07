@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-07T09:31:08.306Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Q6j35FhiBvZwFTRMEIMC" version="24.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-07T09:37:47.985Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="LcgqKs0SnAGB2i4N8EWO" version="24.5.1" type="github">
   <diagram name="Page-1" id="GF7OaNWlpsntlyMCokd7">
     <mxGraphModel dx="4283" dy="5266" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -336,6 +336,16 @@
         <UserObject label="Select an implementation framework (tensorflow, tensorlof lite, etc.)" tooltip="Le besoin est de connaitre ce qui existe&#xa;et d&#39;avoir une idée des &#xa;grandes caractéristiques des cibles matérielles &#xa;(nombre de coeurs, présence d&#39;accélérateurs, &#xa;quantité mémoire, etc.).&#xa;Il s&#39;agit d&#39;un besoin d&#39;information et&#xa;de moyen d&#39;accès à cette information &#xa;(capacité de recherche sur un critère &#xa;donné).&#xa;" id="7k-AmSmw4N_ky5tJrCOa-140">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
             <mxGeometry x="80" y="190" width="160" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Have access to the HW targets" tooltip="Le besoin est de connaitre ce qui existe&#xa;et d&#39;avoir une idée des &#xa;grandes caractéristiques des cibles matérielles &#xa;(nombre de coeurs, présence d&#39;accélérateurs, &#xa;quantité mémoire, etc.).&#xa;Il s&#39;agit d&#39;un besoin d&#39;information et&#xa;de moyen d&#39;accès à cette information &#xa;(capacité de recherche sur un critère &#xa;donné).&#xa;" id="7k-AmSmw4N_ky5tJrCOa-141">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+            <mxGeometry x="80" y="330" width="160" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Setup the deployment tool chain&amp;nbsp;" tooltip="Le besoin est de connaitre ce qui existe&#xa;et d&#39;avoir une idée des &#xa;grandes caractéristiques des cibles matérielles &#xa;(nombre de coeurs, présence d&#39;accélérateurs, &#xa;quantité mémoire, etc.).&#xa;Il s&#39;agit d&#39;un besoin d&#39;information et&#xa;de moyen d&#39;accès à cette information &#xa;(capacité de recherche sur un critère &#xa;donné).&#xa;" id="7k-AmSmw4N_ky5tJrCOa-142">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+            <mxGeometry x="80" y="400" width="160" height="60" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
