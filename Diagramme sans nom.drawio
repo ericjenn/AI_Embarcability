@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-07T08:45:11.642Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="HehWqsEUiyocDvbjM6mJ" version="24.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-07T08:49:20.028Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="DIgM1IcRB5TftlLPwIb1" version="24.5.1" type="github">
   <diagram name="Page-1" id="GF7OaNWlpsntlyMCokd7">
     <mxGraphModel dx="4480" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -62,30 +62,30 @@
           <mxGeometry x="-120" y="260" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7k-AmSmw4N_ky5tJrCOa-14" value="Estimate &amp;lt;X&amp;gt;&amp;nbsp; (for&amp;nbsp;&lt;b&gt;unavailable or non existing&lt;/b&gt; targets)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="250" y="480" width="160" height="60" as="geometry" />
+          <mxGeometry x="170" y="640" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7k-AmSmw4N_ky5tJrCOa-15" value="Automate mesurements (perform a series of mesurement exp. automatically" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="250" y="550" width="160" height="60" as="geometry" />
+          <mxGeometry x="170" y="710" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7k-AmSmw4N_ky5tJrCOa-16" value="Measure &amp;lt;X&amp;gt; for the same model on multiple targets,&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="250" y="620" width="160" height="60" as="geometry" />
+          <mxGeometry x="170" y="780" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7k-AmSmw4N_ky5tJrCOa-17" value="Measure &amp;lt;X&amp;gt; for the same model using multiple frameworks" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="80" y="480" width="160" height="60" as="geometry" />
+          <mxGeometry y="640" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7k-AmSmw4N_ky5tJrCOa-18" value="Explore multiple deployment solutions and provide comparative results" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="80" y="550" width="160" height="60" as="geometry" />
+          <mxGeometry y="710" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7k-AmSmw4N_ky5tJrCOa-19" value="Find the optimal deployment solution for a given model and a set of criteria" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="80" y="190" width="160" height="60" as="geometry" />
         </mxCell>
         <UserObject label="Find the best model architecture and deployment solution&amp;nbsp; for a given problem" tooltip="Le besoin de trouver la meilleure configuration &#xa;(modèle, framework, cible), &#xa;le modèle étant ici une variable libre.&#xa;On ne part pas d&#39;un modèle dont l&#39;architecture &#xa;est donnée, mais on optimise &#xa;l&#39;architecture pour un hardware donné (HW-NAS)." id="7k-AmSmw4N_ky5tJrCOa-20">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-            <mxGeometry x="420" y="480" width="160" height="60" as="geometry" />
+            <mxGeometry x="340" y="640" width="160" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="7k-AmSmw4N_ky5tJrCOa-21" value="Compare the &amp;lt;X&amp;gt; for multiple deployment solutions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="80" y="620" width="160" height="60" as="geometry" />
+          <mxGeometry y="780" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7k-AmSmw4N_ky5tJrCOa-23" value="Capability to give access to a zoo of models with appropriate documentation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1530" y="1190" width="160" height="60" as="geometry" />
@@ -97,7 +97,7 @@
           <mxGeometry x="1700" y="1120" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7k-AmSmw4N_ky5tJrCOa-26" value="Find possible deployment solutions for a given model and criteria" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="250" y="690" width="160" height="60" as="geometry" />
+          <mxGeometry x="170" y="850" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7k-AmSmw4N_ky5tJrCOa-27" value="Capability to evaluate multiple deployment solutions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="740" y="480" width="160" height="60" as="geometry" />
@@ -115,13 +115,13 @@
           <mxGeometry x="1130" y="1110" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7k-AmSmw4N_ky5tJrCOa-33" value="Estimate the effect of faults (e.g. SEUs) on the model performance" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="420" y="550" width="160" height="60" as="geometry" />
+          <mxGeometry x="340" y="710" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7k-AmSmw4N_ky5tJrCOa-36" value="Measure CPU usage" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-120" y="190" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7k-AmSmw4N_ky5tJrCOa-40" value="Optimise ML implementation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="80" y="690" width="160" height="60" as="geometry" />
+          <mxGeometry y="850" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7k-AmSmw4N_ky5tJrCOa-41" value="Provide indication about processor usage" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="740" y="1180" width="160" height="60" as="geometry" />
@@ -270,14 +270,14 @@
         <mxCell id="7k-AmSmw4N_ky5tJrCOa-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;flowAnimation=0;" edge="1" parent="1" source="7k-AmSmw4N_ky5tJrCOa-107" target="7k-AmSmw4N_ky5tJrCOa-117">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="7k-AmSmw4N_ky5tJrCOa-107" target="7k-AmSmw4N_ky5tJrCOa-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7k-AmSmw4N_ky5tJrCOa-107" value="Provide the evidences required by certification" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="280" y="120" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7k-AmSmw4N_ky5tJrCOa-109" value="Debug the model" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="560" y="120" width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-110" value="Find performance hotspots" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="560" y="190" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7k-AmSmw4N_ky5tJrCOa-111" value="Demonstrate mastering of the implementation toolchain" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="340" y="250" width="120" height="50" as="geometry" />
@@ -287,6 +287,18 @@
         </mxCell>
         <mxCell id="7k-AmSmw4N_ky5tJrCOa-117" value="Ensure model to model implementation traceability" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="340" y="370" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-121" value="Find performance hotspots" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="760" y="120" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-122" value="Optimize implementation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="760" y="200" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-123" value="Reduce model to model implementation latency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="560" y="200" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-125" value="Demonstrate compliance with inference latency constraint" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="340" y="430" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
