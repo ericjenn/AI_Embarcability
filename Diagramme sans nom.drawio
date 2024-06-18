@@ -1,350 +1,350 @@
-<mxfile host="app.diagrams.net" modified="2024-06-07T09:37:47.985Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="LcgqKs0SnAGB2i4N8EWO" version="24.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-18T14:35:10.342Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="KVS2V3610Guw8GiuFPXY" version="24.5.4" type="github">
   <diagram name="Page-1" id="GF7OaNWlpsntlyMCokd7">
-    <mxGraphModel dx="4283" dy="5266" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="4535" dy="5318" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-97" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-97" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="730" y="470" width="350" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-100" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-100" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="1120" y="1030" width="350" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-102" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-102" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="560" y="1030" width="520" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-94" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-94" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1120" y="470" width="350" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-88" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-88" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1520" y="750" width="350" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-87" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-87" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="1120" y="750" width="350" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-82" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-82" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1520" y="1030" width="350" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-80" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-80" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="1520" y="470" width="350" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-1" value="Capability to run the same model on multiple targets" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-1" value="Capability to run the same model on multiple targets" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="910" y="1110" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-2" value="Capability to deploy the same model using multiple frameworks" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-2" value="Capability to deploy the same model using multiple frameworks" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="910" y="1460" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-3" value="Capability to measure energy consumption&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-3" value="Capability to measure energy consumption&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="740" y="1390" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-4" value="Capability to measure memory usage" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-4" value="Capability to measure memory usage" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="740" y="1250" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-5" value="Capability to measure CPU usage" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-5" value="Capability to measure CPU usage" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="910" y="1320" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-6" value="Capability to specify the ``semantics&#39;&#39; of the model semantics in a precise and accurate way" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-6" value="Capability to specify the ``semantics&#39;&#39; of the model semantics in a precise and accurate way" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1300" y="480" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-7" value="Capability to demonstrate that the model properties (e.g., robustness) are preserved by its impl.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-7" value="Capability to demonstrate that the model properties (e.g., robustness) are preserved by its impl.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1130" y="480" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-8" value="Capability to demonstrate that the ML model perf. are preserved by its impl." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-8" value="Capability to demonstrate that the ML model perf. are preserved by its impl." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1130" y="550" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-10" value="Measure ML performances" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-10" value="Measure ML performances" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-120" y="120" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-11" value="Measure energy consumption" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-11" value="Measure energy consumption" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-120" y="330" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-12" value="Measure memory usage&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-12" value="Measure memory usage&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-120" y="400" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-13" value="Measure ML pipeline latency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-13" value="Measure ML pipeline latency" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-120" y="260" width="160" height="60" as="geometry" />
         </mxCell>
         <UserObject label="Estimate &amp;lt;X&amp;gt;&amp;nbsp; (fo&lt;b&gt;r&amp;nbsp;&lt;/b&gt;unavailable or non existing targets)" tooltip="Cela peut concerner des cibles matérielles &#xa;qui ne sont psa encore disponibles sur&#xa;le marché mais dont on a déjà quelques &#xa;caractéristiques, ou des cibes non approvisionnées." id="7k-AmSmw4N_ky5tJrCOa-14">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
             <mxGeometry x="80" y="600" width="160" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-15" value="Automate mesurements (perform a series of mesurement exp. automatically" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-15" value="Automate mesurements (perform a series of mesurement exp. automatically" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="80" y="670" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-16" value="Measure &amp;lt;X&amp;gt; for the same model on multiple targets,&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-16" value="Measure &amp;lt;X&amp;gt; for the same model on multiple targets,&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-120" y="600" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-17" value="Measure &amp;lt;X&amp;gt; for the same model using multiple frameworks" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-17" value="Measure &amp;lt;X&amp;gt; for the same model using multiple frameworks" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-120" y="670" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-18" value="Explore multiple deployment solutions and provide comparative results" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-18" value="Explore multiple deployment solutions and provide comparative results" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-120" y="740" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-19" value="Find the optimal deployment solution for a given model and a set of criteria" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-19" value="Find the optimal deployment solution for a given model and a set of criteria" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="80" y="260" width="160" height="60" as="geometry" />
         </mxCell>
         <UserObject label="Find the best model architecture and deployment solution&amp;nbsp; for a given problem" tooltip="Le besoin de trouver la meilleure configuration &#xa;(modèle, framework, cible), &#xa;le modèle étant ici une variable libre.&#xa;On ne part pas d&#39;un modèle dont l&#39;architecture &#xa;est donnée, mais on optimise &#xa;l&#39;architecture pour un hardware donné (HW-NAS)." id="7k-AmSmw4N_ky5tJrCOa-20">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
             <mxGeometry x="80" y="740" width="160" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-21" value="Compare the &amp;lt;X&amp;gt; for multiple deployment solutions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-21" value="Compare the &amp;lt;X&amp;gt; for multiple deployment solutions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-120" y="880" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-23" value="Capability to give access to a zoo of models with appropriate documentation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-23" value="Capability to give access to a zoo of models with appropriate documentation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1530" y="1190" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-24" value="Capability to predict measure &amp;lt;X&amp;gt; (e.g., using ML)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-24" value="Capability to predict measure &amp;lt;X&amp;gt; (e.g., using ML)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="740" y="1110" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-25" value="Capability to propose possible deployment solutions compliant with a set of criteria" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-25" value="Capability to propose possible deployment solutions compliant with a set of criteria" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1700" y="1120" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-26" value="Find possible deployment solutions for a given model and criteria" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-26" value="Find possible deployment solutions for a given model and criteria" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-120" y="810" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-27" value="Capability to evaluate multiple deployment solutions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-27" value="Capability to evaluate multiple deployment solutions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="740" y="480" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-28" value="Capability to share results of previous experiments" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-28" value="Capability to share results of previous experiments" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1130" y="760" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-29" value="A need" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=2" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-29" value="A need" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=2" parent="1" vertex="1">
           <mxGeometry x="200" y="-30" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-30" value="&lt;i&gt;A capability&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-30" value="&lt;i&gt;A capability&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="200" y="5" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-32" value="Capability to inject faults into a model implementation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-32" value="Capability to inject faults into a model implementation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1130" y="1110" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-33" value="Estimate the effect of faults (e.g. SEUs) on the model performance" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-33" value="Estimate the effect of faults (e.g. SEUs) on the model performance" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="280" y="600" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-36" value="Measure CPU usage" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-36" value="Measure CPU usage" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-120" y="190" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-40" value="Find the optimal deployment" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-40" value="Find the optimal deployment" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-120" y="950" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-41" value="Provide indication about processor usage" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-41" value="Provide indication about processor usage" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="740" y="1180" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-42" value="Provide indication about cache usage" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-42" value="Provide indication about cache usage" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="910" y="1180" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-45" value="Provide indication about bus usage" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-45" value="Provide indication about bus usage" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="910" y="1250" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-47" value="Capability to measure response times" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-47" value="Capability to measure response times" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="910" y="1040" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-50" value="Measure temperature profile" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-50" value="Measure temperature profile" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-120" y="470" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-52" value="Capability to describe series of experiments using a script" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-52" value="Capability to describe series of experiments using a script" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="910" y="1390" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="7k-AmSmw4N_ky5tJrCOa-107" target="7k-AmSmw4N_ky5tJrCOa-111">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="7k-AmSmw4N_ky5tJrCOa-107" target="7k-AmSmw4N_ky5tJrCOa-111" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-56" value="Demonstrate that the model implementation preserves the semantics of the model" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-56" value="Demonstrate that the model implementation preserves the semantics of the model" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="340" y="190" width="120" height="50" as="geometry" />
         </mxCell>
         <UserObject label="Select a HW targets(according to high level criteria)" tooltip="Le besoin est de connaitre ce qui existe&#xa;et d&#39;avoir une idée des &#xa;grandes caractéristiques des cibles matérielles &#xa;(nombre de coeurs, présence d&#39;accélérateurs, &#xa;quantité mémoire, etc.).&#xa;Il s&#39;agit d&#39;un besoin d&#39;information et&#xa;de moyen d&#39;accès à cette information &#xa;(capacité de recherche sur un critère &#xa;donné).&#xa;" id="7k-AmSmw4N_ky5tJrCOa-58">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
             <mxGeometry x="80" y="120" width="160" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-60" value="Capability to transform models to support multiple frameworks" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-60" value="Capability to transform models to support multiple frameworks" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="740" y="550" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-61" value="Capability to check the compatibility of models with frameworks" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-61" value="Capability to check the compatibility of models with frameworks" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="910" y="480" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-62" value="Capability to propose a workflow for a given model and target" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-62" value="Capability to propose a workflow for a given model and target" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="910" y="550" width="160" height="60" as="geometry" />
         </mxCell>
         <UserObject label="Capability to show the status of a on-going series of experiments" tooltip="Il s&#39;agit d&#39;une capacité de surveillance [déjà implémentée avec Airflow]" id="7k-AmSmw4N_ky5tJrCOa-63">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
             <mxGeometry x="1530" y="480" width="160" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-64" value="Capabiity to add new HW platforms in a transparent way" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-64" value="Capabiity to add new HW platforms in a transparent way" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="570" y="1040" width="160" height="60" as="geometry" />
         </mxCell>
         <UserObject label="Capability to list and provide essential info. on existing AI deployment frameworks" tooltip="L&#39;idée est de donner à l&#39;utilisateur des &#xa;informations le plus à jour possible sur &#xa;les bibliothèques, frameworks, accélérateurs IA&#xa;disponibles sur le marché." id="7k-AmSmw4N_ky5tJrCOa-65">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
             <mxGeometry x="1530" y="760" width="160" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Capability to list and provide essential info. existing AI-enabled&amp;nbsp;HW targets, accelerators" tooltip="L&#39;idée est de donner à l&#39;utilisateur des &#xa;informations le plus à jour possible sur &#xa;les bibliothèques, frameworks, accélérateurs IA&#xa;disponibles sur le marché." id="7k-AmSmw4N_ky5tJrCOa-66">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
             <mxGeometry x="1530" y="830" width="160" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Capability to share existing resources among mutiple users" tooltip="L&#39;idée est de pouvoir mettre en commun des&#xa;ressources matérielles entre utilisateurs &#xa;du banc. C&#39;est-à-dire de pouvoir rendre &#xa;accessible une ressource matérielle qui &#xa;serait localisée chez un partenaire..." id="7k-AmSmw4N_ky5tJrCOa-69">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
             <mxGeometry x="740" y="1460" width="160" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Capability to share resources located at different sites in a transparent way" tooltip="L&#39;idée est de pouvoir établir un réseau&#xa;de &quot;bancs&quot; et de pouvoir utiliser n&#39;importe&#xa;quelle des ressources disponibles sur ces&#xa;bancs à un utilisateur. &#xa;À terme, on pourrait offrir la capacité de&#xa;d&#39;intégrer (&quot;plugger&quot;) une nouvelle &#xa;ressource matérielle fournie pas l&#39;un des &#xa;partenaires." id="7k-AmSmw4N_ky5tJrCOa-70">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
             <mxGeometry x="1300" y="1110" width="160" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-71" value="Capability to integrate the deployment workflow in the MLOps workflow" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-71" value="Capability to integrate the deployment workflow in the MLOps workflow" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1300" y="1040" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-72" value="Capability to document frameworks in an homogenous way (for comparison purposes)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-72" value="Capability to document frameworks in an homogenous way (for comparison purposes)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1700" y="1050" width="160" height="60" as="geometry" />
         </mxCell>
         <UserObject label="Capability to collect and give access to experimental results from the litterature" tooltip="De très nombreux articles scientifiques (et &#xa;autres) donnent des résultats de &#xa;performance. Il serait bien de les &#xa;collecter et d&#39;y donner accès. &#xa;Cela permettrait de faire un premier choix sans &#xa;avoir à réaliser de mesures." id="7k-AmSmw4N_ky5tJrCOa-73">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
             <mxGeometry x="1130" y="830" width="160" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Capability to guide the user to chose the most appropriate target for his/her needs" tooltip="Utilisation d&#39;un LLM+RAG spécialisé sur&#xa;le déploiement d&#39;algorithmes d&#39;IA?" id="7k-AmSmw4N_ky5tJrCOa-74">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
             <mxGeometry x="1530" y="1120" width="160" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Capability to guide the user to chose the most appropriate models for a given function" tooltip="L&#39;idée est de proposer une taxonomie des&#xa;modèles en précisant ce pour quoi ils&#xa;ont été développés, quelles sont les &#xa;performances obtenues, les papiers&#xa;dans lesquels ils sont décrits." id="7k-AmSmw4N_ky5tJrCOa-75">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
             <mxGeometry x="1530" y="1050" width="160" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-76" value="Capability to compare a model impl. against a reference impl. at for all layers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-76" value="Capability to compare a model impl. against a reference impl. at for all layers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1300" y="550" width="160" height="60" as="geometry" />
         </mxCell>
         <UserObject label="Capability to provide template implementations for typical models, frameworks, targets&amp;nbsp;" tooltip="Cela vaut pour les implémentations &quot;manuelles&quot;, &#xa;c&#39;est-à-dire celles qui ne sont pas directement&#xa;obtenues par transformation d&#39;une description &#xa;de modèle selon un format standard." id="7k-AmSmw4N_ky5tJrCOa-77">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
             <mxGeometry x="1700" y="1190" width="160" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-78" value="Capability to detect and recover failures (restart experiments...)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-78" value="Capability to detect and recover failures (restart experiments...)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1530" y="550" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-79" value="Capability to debug a model impementation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-79" value="Capability to debug a model impementation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="740" y="1320" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-84" value="TECHNOLOGICAL SURVEY" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-84" value="TECHNOLOGICAL SURVEY" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1520" y="720" width="350" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-85" value="GUIDANCE and DOCUMENTATION" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-85" value="GUIDANCE and DOCUMENTATION" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1520" y="1000" width="350" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-86" value="Capability to support spiking neural networks" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-86" value="Capability to support spiking neural networks" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1130" y="1040" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-89" value="RESULTS COLLECTION AND SHARING" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-89" value="RESULTS COLLECTION AND SHARING" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="1120" y="720" width="350" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-93" value="MONITORING" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-93" value="MONITORING" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="1520" y="440" width="350" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-95" value="DEVELOPMENT ASSURANCE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-95" value="DEVELOPMENT ASSURANCE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1120" y="440" width="350" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-96" value="AUTOMATION" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-96" value="AUTOMATION" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="730" y="440" width="350" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-98" value="Capability to reproduce experiments" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-98" value="Capability to reproduce experiments" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="740" y="1040" width="160" height="60" as="geometry" />
         </mxCell>
         <UserObject label="Capability to show the characteristics of the HW platforms installed in the bench" tooltip="L&#39;idée est de donner des informations &#xa;synthétiques et représentées de façon &#xa;homogènespourles différentes cibles &#xa;matérielles installées sur le banc &#xa;(ou, plus généralement, disponibles &#xa;sur le marché). " id="7k-AmSmw4N_ky5tJrCOa-99">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
             <mxGeometry x="1530" y="1260" width="160" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-101" value="OTHER" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-101" value="OTHER" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="1120" y="1000" width="350" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-103" value="BASIC CAPABILITIES" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-103" value="BASIC CAPABILITIES" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="560" y="1000" width="520" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-106" value="Capability to measure temperature profile" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-106" value="Capability to measure temperature profile" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="570" y="1110" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="7k-AmSmw4N_ky5tJrCOa-107" target="7k-AmSmw4N_ky5tJrCOa-56">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" parent="1" source="7k-AmSmw4N_ky5tJrCOa-107" target="7k-AmSmw4N_ky5tJrCOa-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;flowAnimation=0;endArrow=none;endFill=0;" edge="1" parent="1" source="7k-AmSmw4N_ky5tJrCOa-107" target="7k-AmSmw4N_ky5tJrCOa-116">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;flowAnimation=0;endArrow=none;endFill=0;" parent="1" source="7k-AmSmw4N_ky5tJrCOa-107" target="7k-AmSmw4N_ky5tJrCOa-116" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;flowAnimation=0;" edge="1" parent="1" source="7k-AmSmw4N_ky5tJrCOa-107" target="7k-AmSmw4N_ky5tJrCOa-117">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;flowAnimation=0;" parent="1" source="7k-AmSmw4N_ky5tJrCOa-107" target="7k-AmSmw4N_ky5tJrCOa-117" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="7k-AmSmw4N_ky5tJrCOa-107" target="7k-AmSmw4N_ky5tJrCOa-125">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="7k-AmSmw4N_ky5tJrCOa-107" target="7k-AmSmw4N_ky5tJrCOa-125" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-107" value="Provide the evidences required by certification" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-107" value="Provide the evidences required by certification" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="280" y="120" width="160" height="60" as="geometry" />
         </mxCell>
         <UserObject label="&quot;Debug&quot; the model" tooltip="Par &quot;bug&quot;, on entend une propriété non satisfaite.&#xa;Ce peut êter par exemple la non identité de l&#39;implémentation avec l&#39;implémenation de réference, &#xa;de façon à pouvoir remonter aux causes racines. &#xa;C&#39;est par ex. ce que nous avons fait pour l&#39;ACAS XU." id="7k-AmSmw4N_ky5tJrCOa-109">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
             <mxGeometry x="560" y="120" width="160" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-111" value="Demonstrate mastering of the implementation toolchain" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-111" value="Demonstrate mastering of the implementation toolchain" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="340" y="250" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-116" value="Demonstrate mastering of the implementation HW" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-116" value="Demonstrate mastering of the implementation HW" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="340" y="310" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-117" value="Ensure model to model implementation traceability" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-117" value="Ensure model to model implementation traceability" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="340" y="370" width="120" height="50" as="geometry" />
         </mxCell>
         <UserObject label="Find performance hotspots" tooltip="Le besoin est d&#39;identifier les endroits où&#xa;les ressources / le temps est consommé&#xa;de façon à éventuellement modifier l&#39;implémentation.&#xa;Pour un GPU, par ex., NVIDIA fournit l&#39;environnement&#xa;nsight. Quid des autres plateformes?&#xa;Quels sont les observables pertinents? (par ex. cache hit / miss, etc.)" id="7k-AmSmw4N_ky5tJrCOa-121">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
             <mxGeometry x="760" y="120" width="160" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-122" value="Optimize implementation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-122" value="Optimize implementation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="760" y="190" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-123" value="Reduce model implementation time" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-123" value="Reduce model implementation time" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="560" y="190" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-125" value="Demonstrate compliance with inference latency constraint" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-125" value="Demonstrate compliance with inference latency constraint" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="340" y="430" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-127" value="Ensure model&amp;nbsp;&lt;div&gt;implemenation maintainability&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-127" value="Ensure model&amp;nbsp;&lt;div&gt;implemenation maintainability&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="560" y="260" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-128" value="Capability to identify situations leading to worst-case execution times" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-128" value="Capability to identify situations leading to worst-case execution times" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1130" y="1180" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-129" value="Capability to ensure confidentiality&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-129" value="Capability to ensure confidentiality&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1130" y="1250" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-130" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Manuel utilisateur&lt;/h1&gt;&lt;p&gt;Ajouter les &quot;besoins&quot; des utilisateurs (&quot;needs&quot;) ainsi que les capacités (&quot;capabiities&quot;).&amp;nbsp;&lt;/p&gt;&lt;p&gt;Si besoin, vous pouvez donner des explication en ajoutant une &quot;bulle d&#39;aide&quot; en sélectionnant un objet et faisant &quot;ALT-shift-t&quot;.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-130" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Manuel utilisateur&lt;/h1&gt;&lt;p&gt;Ajouter les &quot;besoins&quot; des utilisateurs (&quot;needs&quot;) ainsi que les capacités (&quot;capabiities&quot;).&amp;nbsp;&lt;/p&gt;&lt;p&gt;Si besoin, vous pouvez donner des explication en ajoutant une &quot;bulle d&#39;aide&quot; en sélectionnant un objet et faisant &quot;ALT-shift-t&quot;.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-190" y="-50" width="370" height="140" as="geometry" />
         </mxCell>
         <UserObject label="Setup the toolchain" tooltip="L&#39;utilisateur va avoir besoin de mettre en place &#xa;la chaine d&#39;outil pour la cible donnée.&#xa;La documentation est plus ou moins disponible&#xa;sur intenet, mais nécessite souvent des ajustements... &#xa;Fournir une procédure claire et complète ou, &#xa;éventuellement, un dockerfile est &#xa;un moyen de faciliter la mise en oeuvre &#xa;des outils / cibles. " id="7k-AmSmw4N_ky5tJrCOa-131">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
             <mxGeometry x="760" y="260" width="160" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-132" value="Compare&amp;nbsp; the final&amp;nbsp; implementation with a reference implementation&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-132" value="Compare&amp;nbsp; the final&amp;nbsp; implementation with a reference implementation&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="560" y="330" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7k-AmSmw4N_ky5tJrCOa-138" value="Select and apply optimization stategy (quantification, pruning etc.)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="7k-AmSmw4N_ky5tJrCOa-138" value="Select and apply optimization stategy (quantification, pruning etc.)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="280" y="670" width="160" height="60" as="geometry" />
         </mxCell>
         <UserObject label="Select an implementation framework (tensorflow, tensorlof lite, etc.)" tooltip="Le besoin est de connaitre ce qui existe&#xa;et d&#39;avoir une idée des &#xa;grandes caractéristiques des cibles matérielles &#xa;(nombre de coeurs, présence d&#39;accélérateurs, &#xa;quantité mémoire, etc.).&#xa;Il s&#39;agit d&#39;un besoin d&#39;information et&#xa;de moyen d&#39;accès à cette information &#xa;(capacité de recherche sur un critère &#xa;donné).&#xa;" id="7k-AmSmw4N_ky5tJrCOa-140">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
             <mxGeometry x="80" y="190" width="160" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Have access to the HW targets" tooltip="Le besoin est de connaitre ce qui existe&#xa;et d&#39;avoir une idée des &#xa;grandes caractéristiques des cibles matérielles &#xa;(nombre de coeurs, présence d&#39;accélérateurs, &#xa;quantité mémoire, etc.).&#xa;Il s&#39;agit d&#39;un besoin d&#39;information et&#xa;de moyen d&#39;accès à cette information &#xa;(capacité de recherche sur un critère &#xa;donné).&#xa;" id="7k-AmSmw4N_ky5tJrCOa-141">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
             <mxGeometry x="80" y="330" width="160" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Setup the deployment tool chain&amp;nbsp;" tooltip="Le besoin est de connaitre ce qui existe&#xa;et d&#39;avoir une idée des &#xa;grandes caractéristiques des cibles matérielles &#xa;(nombre de coeurs, présence d&#39;accélérateurs, &#xa;quantité mémoire, etc.).&#xa;Il s&#39;agit d&#39;un besoin d&#39;information et&#xa;de moyen d&#39;accès à cette information &#xa;(capacité de recherche sur un critère &#xa;donné).&#xa;" id="7k-AmSmw4N_ky5tJrCOa-142">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
             <mxGeometry x="80" y="400" width="160" height="60" as="geometry" />
           </mxCell>
         </UserObject>
